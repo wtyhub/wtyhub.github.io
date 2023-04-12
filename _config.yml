@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhedong Zheng"
+title                    : "Tingyu Wang"
 title_separator          : "-"
-name                     : &name "Zhedong Zheng"
-description              : &description "Postdoc Researcher at NUS"
+name                     : &name "Tingyu Wang"
+description              : &description " Researcher at NUS"
 url                      : "https://wtyhub.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wtyhub/wtyhub.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhedong Zheng"
+  name             : "Tingyu Wang"
   avatar           : "profile.webp"
-  bio              : "Postdoc Researcher at National University of Singapore"
-  location         : "Singapore"
+  bio              : "Assistant Researcher at Hangzhou Dianzi University"
+  location         : "China"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=XT17oUEAAAAJ"
-  email            : zhedong.zheng@student.uts.edu.au
-  researchgate     : "https://www.researchgate.net/profile/Zhedong-Zheng-2"
+  googlescholar    : "https://scholar.google.com/citations?user=wv3H-F4AAAAJ&hl=en"
+  email            : wongtyu@hdu.edu.cn
+  researchgate     : #"https://www.researchgate.net/profile/Zhedong-Zheng-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -101,7 +101,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         : #"zhedongzheng"
-  orcid            : "http://orcid.org/0000-0002-2434-9050"
+  orcid            : "https://orcid.org/0000-0002-4169-1595"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
