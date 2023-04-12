@@ -11,9 +11,9 @@ title                    : "Zhedong Zheng"
 title_separator          : "-"
 name                     : &name "Zhedong Zheng"
 description              : &description "Postdoc Researcher at NUS"
-url                      : "https://zdzheng.xyz" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://wtyhub.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "layumi/layumi.github.io"
+repository               : "wtyhub/wtyhub.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -93,14 +93,14 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "zhedongzheng12"
+  facebook         : #"zhedongzheng12"
   foursquare       :
   github           : "layumi"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "zhedongzheng"
+  linkedin         : #"zhedongzheng"
   orcid            : "http://orcid.org/0000-0002-2434-9050"
   pinterest        :
   soundcloud       :
@@ -112,7 +112,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  zhihu            : "zhengzhedong" 
+  zhihu            : #"zhengzhedong" 
   wikipedia        :
 
 
