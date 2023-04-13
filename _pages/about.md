@@ -14,19 +14,17 @@ Hi! I am currently a assistant research fellow at <a href="http://iipl.net.cn/in
 
 **2018 - 2022** I received Ph.D. from School of Automation, <a href="https://www.hdu.edu.cn/main.htm">Hangzhou Dianzi University (HDU) </a>, under the supervision of <a href="https://cgyan-iipl.github.io/">Prof. Chenggang Yan</a>. 
 
+**2019-2020** I was honored to join the <a href="https://reler.net/">ReLER Lab</a>, <a href="https://www.uts.edu.au/">University of Technology Sydney (UTS) </a> as a visiting student and conduct research under the supervision of <a href="https://scholar.google.com/citations?user=RMSuNFwAAAAJ">Prof. Yi Yang</a> and <a href="https://www.zdzheng.xyz/">Dr. Zhedong Zheng</a> (co-supervisor).
+
 **2015 - 2018** I received my Master's degree from School of Automation, <a href="https://www.hdu.edu.cn/main.htm">Hangzhou Dianzi University (HDU) </a> in 2018, under the supervision of <a href="https://auto.hdu.edu.cn/2019/0403/c3803a93066/page.htm">Prof. Chengzhong Yang</a>. 
 
 **2011 - 2015** I received my Bachelor's degree from <a href="https://www.ytu.edu.cn/">Yantai University</a> in 2015.
 
-**2017 - 2021** I received Ph.D. from the <a href="https://reler.net/">ReLER Lab</a>, <a href="https://www.uts.edu.au/">University of Technology Sydney (UTS) </a>, under the supervision of <a href="https://scholar.google.com/citations?user=RMSuNFwAAAAJ">Prof. Yi Yang</a> and <a href="https://zheng-lab.cecs.anu.edu.au/">Dr. Liang Zheng</a> (co-supervisor).
+Open-source projects can be found at my <a href='https://github.com/wtyhub'>[Github]</a>, and publications can be found at [Google Scholar](https://scholar.google.com/citations?user=wv3H-F4AAAAJ&hl=en).
 
-**2019-2020** I was fortunate to 
-spend my summer working with <a href='https://xiaodongyang.org/'>Xiaodong Yang</a> (Nvida), <a href='https://chrisding.github.io/'>Zhiding Yu</a> (Nvidia), <a href='https://jankautz.com/'>Jan Kautz</a> (Nvidia), <a href='https://github.com/miraclebiu'>Minyue Jiang</a> (Baidu) and <a href='https://scholar.google.com/citations?user=R1rVRUkAAAAJ'>Xiao Tan</a> (Baidu). 
-
-Open-source projects can be found at my <a href='https://github.com/layumi'>[Github]</a>, and publications can be found at  [SCI](https://www.webofscience.com/wos/author/record/434956), [SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=57200174037), or [Google Scholar](https://scholar.google.com/citations?hl=en&user=XT17oUEAAAAJ).
-
+<!---
 <strong>More details can be found in my [[CV]]({{ site.url }}{{ site.baseurl }}/files/zhedong-resume.pdf). </strong>
-
+-->
 <!---
 <ul>
 <li> <mark>If you are a NUS Undergraduate / Master student who is interested in doing research/project with me, please contact me via email with your CV. My current email address is zdzheng AT nus.edu.sg . We will have at least two mentors to guide you and provide gpu resource supports.</mark></li> 
@@ -37,11 +35,11 @@ Open-source projects can be found at my <a href='https://github.com/layumi'>[Git
 Research Statement
 ======
 
-My work focuses on multi-view object matching and novel view synthesis and analysis, under a multi-camera scenario, e.g., swarm robotics, self-driving car, and smart city.
-
+My work focuses on deep learning, multi-view object matching and remote sensing.
+<!---
 The child understands a 3D object, not from a still image, but from multiple images / videos capturing the target of interest from different viewpoints.
 
-<!---
+
 Big data is the primary part of training data-driven models. There remain three scientific questions. 
 
 - Data Generation:  How to obtain more data? Due to the annotation costs and privacy concerns,  we usually could not access the large-scale data easily.  
@@ -58,6 +56,7 @@ News
 ======
 <ul>
 <li> We are holding two workshops at ACM Multimedia 2022 on Aerial-view Imaging <a href="https://zdzheng.xyz/ACMMM2023Workshop/">[Call for papers]</a> and Deep Multimodal Learning <a href="https://videorelation.nextcenter.org/MMIR23/">[Call for papers]</a>.   </li>
+<!---
 <li> Two papers to appear at CVPR 2023. </li>
 <li> One paper on Adversarial Retrieval Attacking is accepted by IJCV 2022. <a href="https://zdzheng.xyz/publication/U-turn-C2022">[link]</a></li> 
 <li> One paper on 3D Human Re-id is accepted by TNNLS 2022. <a href="https://zdzheng.xyz/publication/Paramete2022">[link]</a></li> 
@@ -78,14 +77,13 @@ News
 	<a href="https://github.com/huangzhikun1995/IPM-Net">[code2]</a></li>
 <li> One paper to appear at CVPR 2019 as oral presentation. <a href="https://zdzheng.xyz/publication/Joint2019">[PDF]</a><a href="https://www.youtube.com/watch?v=ubCrEAIpQs4">[3-min video]</a> <a href="https://github.com/NVlabs/DG-Net">[code]</a></li>
 </ul>
-<!---	
 <li> One paper to appear at ECCV 2018. <a href="https://arxiv.org/abd/1807.08260">[arXiv]</a> <a href="https://github.com/RoyalVane/MMAN">[code]</a> </li>
 <li> One paper to appear at CVPR 2018. <a href="https://arxiv.org/abs/1711.10295">[arXiv]</a> <a href="https://github.com/zhunzhong07/CamStyle">[code]</a> </li>
 <li> One paper to appear at ICCV 2017 as spotlight presentation. <a href="https://arxiv.org/abs/1701.07717">[arXiv]</a> <a href="https://github.com/layumi/Person-reID_GAN"> [code]</a> </li>
 -->
-
 <hr>
-
+	
+<!---		
 Others
 ======
 <ul>
@@ -93,6 +91,8 @@ Others
 <li>  I was a poster maker when I studied at Fudan University. You may check out <a href="https://www.zdzheng.xyz/poster_page">my posters</a>.</li>
 <li>  I sometimes write Chinese blogs and share insights at <a href="https://www.zhihu.com/people/zhengzhedong">Zhihu</a>.</li>
 </ul>
+
+	
 Do not press the red button!
 
 <a href="https://zdzheng.xyz/redbutton.html"> <img src="https://zdzheng.xyz/images/red.jpeg" alt="red" width="50" height="50"></a>
@@ -137,7 +137,7 @@ Do not press the red button!
 		    </script>
 </div>
 
-
+-->
 
 
   
