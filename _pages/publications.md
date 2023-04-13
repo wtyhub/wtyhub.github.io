@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <u><a href="https://scholar.google.com/citations?user=XT17oUEAAAAJ">my Google Scholar profile</a>.</u>
+You can also find my articles on <u><a href="https://scholar.google.com/citations?user=wv3H-F4AAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
 Publications:  [2023](#2023), [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017)
 
@@ -29,6 +29,7 @@ Publications:  [2023](#2023), [2022](#2022), [2021](#2021), [2020](#2020), [2019
   {% endif %}
 {% endfor %}
 
+<!--
 ### 2021
 
 {% for post in site.publications reversed %}
@@ -68,3 +69,4 @@ Publications:  [2023](#2023), [2022](#2022), [2021](#2021), [2020](#2020), [2019
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
+-->
