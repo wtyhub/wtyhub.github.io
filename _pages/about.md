@@ -38,8 +38,8 @@ Research Statement
 My work focuses on deep learning, multi-view object matching and remote sensing.
 <!---
 The child understands a 3D object, not from a still image, but from multiple images / videos capturing the target of interest from different viewpoints.
-
-
+-->
+<!---
 Big data is the primary part of training data-driven models. There remain three scientific questions. 
 
 - Data Generation:  How to obtain more data? Due to the annotation costs and privacy concerns,  we usually could not access the large-scale data easily.  
