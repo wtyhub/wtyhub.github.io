@@ -12,11 +12,16 @@ redirect_from:
 		   
 Hi! I am currently a assistant research fellow at <a href="http://iipl.net.cn/index/index.aspx">IIPL Lab</a>, School of Communication Engineering, Hangzhou Dianzi University with <a href="https://cgyan-iipl.github.io/">Prof. Chenggang Yan</a>.
 
-**2017 - 2021** I received Ph.D. from the <a href="https://reler.net/">ReLER Lab</a>, <a href="https://www.uts.edu.au/">University of Technology Sydney (UTS) </a>, under the supervision of <a href="https://scholar.google.com/citations?user=RMSuNFwAAAAJ">Prof. Yi Yang</a> and <a href="https://zheng-lab.cecs.anu.edu.au/">Dr. Liang Zheng</a> (co-supervisor). 
+**2018 - 2022** I received Ph.D. from School of Automation, <a href="https://www.hdu.edu.cn/main.htm">Hangzhou Dianzi University (HDU) </a>, under the supervision of <a href="https://cgyan-iipl.github.io/">Prof. Chenggang Yan</a>. 
 
-**2012 - 2016** I received my Bachelor's degree from <a href="https://www.fudan.edu.cn">Fudan University</a> in 2016, under the supervision of <a href="https://scholar.google.com.au/citations?user=DTbhX6oAAAAJ&hl=en">Prof. Xiangyang Xue</a>. 
+**2015 - 2018** I received my Master's degree from School of Automation, <a href="https://www.hdu.edu.cn/main.htm">Hangzhou Dianzi University (HDU) </a> in 2018, under the supervision of <a href="https://auto.hdu.edu.cn/2019/0403/c3803a93066/page.htm">Prof. Chengzhong Yang</a>. 
 
-**2018, 2020** I was fortunate to spend my summer working with <a href='https://xiaodongyang.org/'>Xiaodong Yang</a> (Nvida), <a href='https://chrisding.github.io/'>Zhiding Yu</a> (Nvidia), <a href='https://jankautz.com/'>Jan Kautz</a> (Nvidia), <a href='https://github.com/miraclebiu'>Minyue Jiang</a> (Baidu) and <a href='https://scholar.google.com/citations?user=R1rVRUkAAAAJ'>Xiao Tan</a> (Baidu). 
+**2011 - 2015** I received my Bachelor's degree from <a href="https://www.ytu.edu.cn/">Yantai University</a> in 2015.
+
+**2017 - 2021** I received Ph.D. from the <a href="https://reler.net/">ReLER Lab</a>, <a href="https://www.uts.edu.au/">University of Technology Sydney (UTS) </a>, under the supervision of <a href="https://scholar.google.com/citations?user=RMSuNFwAAAAJ">Prof. Yi Yang</a> and <a href="https://zheng-lab.cecs.anu.edu.au/">Dr. Liang Zheng</a> (co-supervisor).
+
+**2019-2020** I was fortunate to 
+spend my summer working with <a href='https://xiaodongyang.org/'>Xiaodong Yang</a> (Nvida), <a href='https://chrisding.github.io/'>Zhiding Yu</a> (Nvidia), <a href='https://jankautz.com/'>Jan Kautz</a> (Nvidia), <a href='https://github.com/miraclebiu'>Minyue Jiang</a> (Baidu) and <a href='https://scholar.google.com/citations?user=R1rVRUkAAAAJ'>Xiao Tan</a> (Baidu). 
 
 Open-source projects can be found at my <a href='https://github.com/layumi'>[Github]</a>, and publications can be found at  [SCI](https://www.webofscience.com/wos/author/record/434956), [SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=57200174037), or [Google Scholar](https://scholar.google.com/citations?hl=en&user=XT17oUEAAAAJ).
 
