@@ -4,12 +4,12 @@ main:
     url: /
   - title: "Publications"
     url: /publications/
-  - title: "CV"
-    url: /files/zhedong-resume.pdf
+  #- title: "CV"
+  #  url: /files/zhedong-resume.pdf
   - title: "Resources"
     url: /resources/
-  - title: "Seminar"
-    url: /seminar/
+  #- title: "Seminar"
+  #  url: /seminar/
   #- title: "Guide"
   #  url: /markdown/
   #- title: "Talks"
