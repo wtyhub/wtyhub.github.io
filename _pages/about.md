@@ -42,7 +42,7 @@ My work focuses on deep learning, multi-view object matching and remote sensing.
 News
 ======
 <ul>
-<li> We are holding two workshops at ACM Multimedia 2022 on Aerial-view Imaging <a href="https://zdzheng.xyz/ACMMM2023Workshop/">[Call for papers]</a> and Deep Multimodal Learning <a href="https://videorelation.nextcenter.org/MMIR23/">[Call for papers]</a>.   </li>
+<li> We are holding two workshops at ACM Multimedia 2022 on Aerial-view Imaging <a href="https://wtyhub.github.io/ACMMM2023Workshop/">[Call for papers]</a> and Deep Multimodal Learning <a href="https://videorelation.nextcenter.org/MMIR23/">[Call for papers]</a>.   </li>
 <!---
 <li> Two papers to appear at CVPR 2023. </li>
 <li> One paper on Adversarial Retrieval Attacking is accepted by IJCV 2022. <a href="https://zdzheng.xyz/publication/U-turn-C2022">[link]</a></li> 
