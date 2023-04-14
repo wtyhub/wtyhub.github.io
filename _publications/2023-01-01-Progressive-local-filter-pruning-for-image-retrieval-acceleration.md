@@ -6,7 +6,7 @@ date: 2023-01-01
 doi: 
 keywords: cross-view geo-localization,image retrieval,
 venue: 'arXiv:2211.05296'
-author: '<strong><a href="https://wtyhub.github.io/authors/Tingyu-Wang" class="author">Tingyu Wang</a></strong>, <a href="https://wtyhub.github.io/authors/Zhedong-Zheng" class="author">Zhedong Zheng</a>, <a href="https://wtyhub.github.io/authors/Yang-He" class="author">Yang He</a>, <a href="https://wtyhub.github.io/authors/Fei-Yan" class="author">Fei Yan</a>, <a href="https://wtyhub.github.io/authors/Zhiqiang-Zeng" class="author">Zhiqiang Zeng</a>, <a href="https://wtyhub.github.io/authors/Yi-Yang" class="author">Yi Yang</a>'
+author: '<strong><a href="https://wtyhub.github.io/authors/Tingyu-Wang" class="author">Tingyu Wang</a></strong>, <a href="https://wtyhub.github.io/authors/Zhedong-Zheng" class="author">Zhedong Zheng</a>, Zunjie Zhu, Yuhan Gao, <a href="https://wtyhub.github.io/authors/Yi-Yang" class="author">Yi Yang</a>, <a href="https://wtyhub.github.io/authors/Chenggang Yan" class="author">Chenggang Yan</a>'
 citation: ' Tingyu Wang,  Zhedong Zheng,  Zunjie Zhu,  Yuhan Gao,  Yi Yang,  Chenggang Yan, &quot;Learning Cross-view Geo-localization Embeddings via Dynamic Weighted Decorrelation Regularization.&quot; arXiv:2211.05296, 2023.'
 pub_year: '2023'
 bib: >
