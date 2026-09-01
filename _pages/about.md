@@ -8,6 +8,128 @@ redirect_from:
   - /about/
 ---
 
+<head> 
+	<style>
+		.paper-card {
+		  background-color: #f9f9f9; /* 淡灰色背景 */
+		  padding: 16px;
+		  border-radius: 12px;
+		  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05); /* 初始轻微阴影 */
+		  margin-bottom: 16px;
+		  transition: all 0.25s ease-in-out;
+		}
+		
+		.author {
+			text-decoration: none !important;
+			color: #333333;
+		}
+	    a.code-link {
+	      color: #181717 !important;
+	    }
+
+	    a.zhihu-link {
+	      color: #0084FF !important;
+	    }
+
+	    a.video-link {
+	      color: #FF0000 !important;
+	    }
+
+	    a.pdf-link {
+	      color: #E41F26 !important;
+	    }
+		.oral-tag {
+		  color: orange;
+		}
+
+	    /* 可选 hover 效果 */
+	    a.code-link:hover {
+	      color: #333 !important;
+	    }
+
+	    a.zhihu-link:hover  {
+	      color: #006ddf !important;
+	    }
+
+	    a.video-link:hover {
+	      color: #cc0000 !important;
+	    }
+
+	    a.pdf-link:hover{
+	      color: #b51a1f !important;
+	    }
+		.author:hover {
+			text-decoration: underline;
+			color: #0066cc;
+		}
+		/* 悬停时的弹起效果 */
+		.paper-card:hover {
+		  transform: translateY(-4px); /* 微微上移 */
+		  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15); /* 增强阴影 */
+		}
+
+		/* ===== 杂志感（新增区块样式） ===== */
+		.hero-slogan {
+		  font-family: Georgia, "Times New Roman", serif;
+		  font-size: 44px; font-weight: 700; line-height: 1.1;
+		  letter-spacing: -0.01em; margin: 8px 0 4px 0; color: #1c1917;
+		}
+		.hero-slogan .accent { color: #d97706; }
+		.hero-cn {
+		  font-family: Georgia, "Times New Roman", serif;
+		  font-size: 19px; color: #6b655f; margin-bottom: 10px;
+		}
+		.pillars { display: flex; gap: 10px; flex-wrap: wrap; margin: 12px 0 6px 0; }
+		.pillar {
+		  border: 1px solid #e8e2d8; background: #fff; border-radius: 999px;
+		  padding: 7px 15px; font-size: 14px; color: #1c1917;
+		}
+		.pillar b { color: #d97706; font-weight: 600; }
+		.talks-row { display: flex; gap: 18px; flex-wrap: wrap; margin-bottom: 8px; }
+		.talk-card {
+		  flex: 1; min-width: 220px; background: #fff; border: 1px solid #e8e2d8;
+		  border-radius: 14px; overflow: hidden; transition: all 0.25s ease-in-out;
+		  display: block; text-decoration: none !important; color: #1c1917;
+		}
+		.talk-card:hover { transform: translateY(-4px); box-shadow: 0 8px 16px rgba(0,0,0,0.12); }  
+			.talk-card .thumb { position: relative; }  
+			.talk-card .thumb img { width: 100%; display: block; aspect-ratio: 16/9; object-fit: cover; }  
+			.talk-card .dur {  
+			  position: absolute; right: 10px; bottom: 10px; background: rgba(20,17,14,0.82);  
+			  color: #fff; font-size: 12px; padding: 2px 8px; border-radius: 5px;  
+			}  
+			.talk-card .lang {  
+			  position: absolute; left: 10px; top: 10px; background: rgba(20,17,14,0.82);  
+			  color: #fff; font-size: 11px; letter-spacing: 0.06em; padding: 3px 9px; border-radius: 999px;  
+			}  
+			.talk-card .start {  
+			  position: absolute; left: 10px; bottom: 10px; background: rgba(20,17,14,0.82);  
+			  color: #fff; font-size: 12px; padding: 2px 8px; border-radius: 5px;  
+			}
+		.talk-body { padding: 14px 16px 16px; }
+		.talk-body h3 {
+		  font-family: Georgia, "Times New Roman", serif; font-size: 17px;
+		  line-height: 1.35; margin: 0 0 4px 0; color: #1c1917;
+		}
+		.talk-cn { font-size: 13px; color: #6b655f; margin-bottom: 10px; }
+		.talk-meta { font-size: 12px; color: #9a928a; }
+		.talk-watch { display: inline-block; font-size: 13.5px; font-weight: 600; color: #d97706; margin-top: 8px; }
+		.quote-block {
+		  border-left: 3px solid #d97706; padding: 6px 0 6px 20px; margin: 22px 0;
+		}
+		.quote-block p {
+		  font-family: Georgia, "Times New Roman", serif; font-size: 18px;
+		  line-height: 1.55; color: #1c1917; margin: 0;
+		}
+		.quote-block cite {
+		  font-style: normal; font-size: 12.5px; color: #9a928a; letter-spacing: 0.04em;
+		  margin-top: 8px; display: block; text-transform: uppercase;
+		}
+		.quote-label { font-size: 12px; color: #d97706; letter-spacing: 0.12em; text-transform: uppercase; font-weight: 600; }
+		h2.mag { font-family: Georgia, "Times New Roman", serif; }
+	</style>
+</head>
+
 <meta name="description"
   content="Tingyu Wang is currently a assistant research fellow at IIPL Lab, School of Communication Engineering, Hangzhou Dianzi University with Prof. Chenggang Yan.  2017 - 2021 Zhedong received Ph.D. from the ReLER Lab, University of Technology Sydney (UTS) , under the supervision of Prof. Yi Yang and Dr. Liang Zheng (co-supervisor).  2012 - 2016 Zhedong received my Bachelor’s degree from Fudan University in 2016, under the supervision of Prof. Xiangyang Xue.  2018, 2020 Zhedong was fortunate to spend my summer working with Xiaodong Yang (Nvida), Zhiding Yu (Nvidia), Jan Kautz (Nvidia), Minyue Jiang (Baidu) and Xiao Tan (Baidu).  ">
 		   
