@@ -1,7 +1,8 @@
 ---
 permalink: /
-title: "About me"
-excerpt: ""
+title: "Tingyu Wang (王廷宇)"
+seo_title: "Tingyu Wang | Assistant Research, Hangzhou Dianzi University | Computer Vision, Spatial Intelligence"
+excerpt: "Assistant Research at the Hangzhou Dianzi University. Research interests include Computer Vision, Spatial Intelligence, Geo-localization, Low Altitude Perception"
 author_profile: true
 redirect_from: 
   - /about/
