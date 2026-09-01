@@ -130,8 +130,8 @@ redirect_from:
 	</style>
 </head>
 
-<meta name="description"
-  content="Tingyu Wang is currently a assistant research fellow at IIPL Lab, School of Communication Engineering, Hangzhou Dianzi University with Prof. Chenggang Yan.  2017 - 2021 Zhedong received Ph.D. from the ReLER Lab, University of Technology Sydney (UTS) , under the supervision of Prof. Yi Yang and Dr. Liang Zheng (co-supervisor).  2012 - 2016 Zhedong received my Bachelor’s degree from Fudan University in 2016, under the supervision of Prof. Xiangyang Xue.  2018, 2020 Zhedong was fortunate to spend my summer working with Xiaodong Yang (Nvida), Zhiding Yu (Nvidia), Jan Kautz (Nvidia), Minyue Jiang (Baidu) and Xiao Tan (Baidu).  ">
+<meta name="keywords"
+  content="Tingyu Wang, 王廷宇, Hangzhou Dianzi University, Computer Vision, Spatial Intelligence, Geo-localization">
 		   
 Hi! I am currently a assistant research fellow at <a href="http://iipl.net.cn/index/index.aspx">IIPL Lab</a>, School of Communication Engineering, Hangzhou Dianzi University with <a href="https://cgyan-iipl.github.io/">Prof. Chenggang Yan</a>.
 
